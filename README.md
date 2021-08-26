@@ -1,0 +1,1 @@
+This app will allow user to search for a country in a list of countries. It will display matching suggestions below the input field for the coutnry the user has entered.
